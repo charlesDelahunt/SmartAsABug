@@ -1,4 +1,3 @@
-# smartAsABug
 
 23 April 2018
 
